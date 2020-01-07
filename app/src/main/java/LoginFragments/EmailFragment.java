@@ -13,6 +13,8 @@ import com.example.brokerapp.R;
 
 public class EmailFragment extends Fragment {
 
+    public static final int FRAGMENT_EMAIL_INDEX = 1;
+
     LoginActivity activity;
 
     private ImageView btnBack;
