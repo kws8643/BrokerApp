@@ -11,3 +11,5 @@
 /build
 /captures
 .externalNativeBuild
+NaverOAuthClient.class
+kakao_strings.xml
